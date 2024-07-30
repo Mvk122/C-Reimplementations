@@ -1,0 +1,1 @@
+void test_dyn_alloc_vec();
